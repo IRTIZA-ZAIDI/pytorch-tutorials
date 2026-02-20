@@ -16,5 +16,5 @@ This repository is organized as a set of small, focused modules. Depending on th
 - Python 3.9+
 - PyTorch (CPU or CUDA build depending on your machine)
 
-### future stuff forf myself
+### future stuff for myself
 https://github.com/Atcold/torch-Video-Tutorials/
