@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.env
+.venv/
+
+# PyTorch model files
+*.pth
+*.pt
+
+# Data folders (anywhere)
+data/
+
+# Model folders (anywhere)
+models/
